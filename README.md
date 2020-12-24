@@ -1,4 +1,4 @@
-### Text-Editor-Project
+# Text-Editor-Project
 
 ## new,open,save
 
