@@ -1,10 +1,3 @@
-//package com.company;
-//import java.util.*;
-//public class Main {
-//    public static void main(String[] args) {
-//        new texteditor();
-//    }
-//}
 
 ///////////Java Program to create a text editor using java
 package com.company;
