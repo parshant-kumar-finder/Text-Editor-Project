@@ -1,5 +1,5 @@
 
-///////////Java Program to create a text editor using java
+///////////Java Program to create a text editor 
 package com.company;
 import java.awt.*;
 import javax.swing.*;
